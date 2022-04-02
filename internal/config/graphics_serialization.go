@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	term "github.com/wvanlint/twf/internal/terminal"
+	term "github.com/johanmcquillan/twf/internal/terminal"
 )
 
 var fromStrTo3Bit map[string]int

@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/wvanlint/twf/internal/filetree"
+	"github.com/johanmcquillan/twf/internal/filetree"
 )
 
 func TestAutoExpand(t *testing.T) {

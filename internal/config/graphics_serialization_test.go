@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	term "github.com/wvanlint/twf/internal/terminal"
+	term "github.com/johanmcquillan/twf/internal/terminal"
 )
 
 func TestParseGraphics(t *testing.T) {

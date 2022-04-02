@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/wvanlint/twf/internal/config"
-	"github.com/wvanlint/twf/internal/filetree"
-	"github.com/wvanlint/twf/internal/state"
-	"github.com/wvanlint/twf/internal/terminal"
-	"github.com/wvanlint/twf/internal/views"
+	"github.com/johanmcquillan/twf/internal/config"
+	"github.com/johanmcquillan/twf/internal/filetree"
+	"github.com/johanmcquillan/twf/internal/state"
+	"github.com/johanmcquillan/twf/internal/terminal"
+	"github.com/johanmcquillan/twf/internal/views"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )
